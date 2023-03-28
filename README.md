@@ -3,13 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c190f3&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+é+Mateus+Iago;Bem+Vindo(a)!+:%29)](https://git.io/typing-svg)
 
 <div align='center'>
-  -Engenharia de software FIAP
-  -Pronome: Ele/Dele
+  Engenharia de software FIAP
 </div><br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Iago&show_icons=true&count_private=true&theme=tokyonight" alt="Mateus-Iago  github stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Iago&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mateus-Iago&show_icons=true&count_private=true&theme=tokyonight" alt="Mateus-Iago  github stats" /> 
+  <img height="160m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Iago&layout=compact&theme=tokyonight" />
 </div>
 
 
