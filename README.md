@@ -11,6 +11,7 @@
   <img height="160m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Iago&layout=compact&theme=tokyonight" />
 </div>
 
+<h3><b>Skills</b></h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,6 +24,8 @@
 </div>
 
 ##
+
+<h3><b>Contatos</b></h3>
 
 <div> 
   <a href = "mailto:mateusiago551@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
