@@ -6,10 +6,11 @@
   Engenharia de software FIAP
 </div><br>
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats-sigma-nine-72.vercel.app/api?username=Mateus-Iago&show_icons=true&count_private=true&theme=tokyonight" alt="Mateus-Iago  github stats" /> 
-  <img height="160m" src="https://github-readme-stats-sigma-nine-72.vercel.app/api/top-langs/?username=Mateus-Iago&layout=compact&theme=tokyonight" />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mateus-Iago&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Mateus Iago github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Iago&layout=compact&hide_border=true&theme=tokyonight" />
 </div>
+
 
 <h3><b>Skills</b></h3>
 
