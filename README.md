@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=514479&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c190f3&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+é+Mateus+Iago;Bem+Vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c190f3&size=35&center=true&vCenter=true&width=1000&lines=Hello!,+My+name+is+Mateus+Iago;Wellcome+!+:%29)](https://git.io/typing-svg)
 
 <div align='center'>
-  Engenharia de software FIAP
+  Software Engineering Student at FIAP
 </div><br>
 
 <div align="center">  
@@ -21,7 +21,7 @@
 
 ##
 
-<h3><b>Contatos</b></h3>
+<h3><b>Contact - me</b></h3>
 
 <div> 
   <a href = "mailto:mateusiago551@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
