@@ -21,7 +21,7 @@
 
 ##
 
-<h3><b>Contact - me</b></h3>
+<h3><b>Contact</b></h3>
 
 <div> 
   <a href = "mailto:mateusiago551@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
